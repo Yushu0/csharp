@@ -1,0 +1,1500 @@
+
+2023-04-14 00:36:18
+TestAppendNode a success
+
+
+2023-04-14 00:36:19
+TestAppendNode b success
+
+
+2023-04-14 00:36:19
+TestAppendNode c success
+
+
+2023-04-14 00:36:19
+TestAppendNode d success
+
+
+2023-04-14 00:36:19
+TestAppendNode IsEmpty() success: False
+
+
+2023-04-14 00:36:20
+TestAppendNode Size() success: 4
+
+
+2023-04-14 00:36:21
+TestAppendNode Retrieve(0) success: a
+
+
+2023-04-14 00:36:22
+TestAppendNode Retrieve(1) success: b
+
+
+2023-04-14 00:36:22
+TestAppendNode Retrieve(2) success: c
+
+
+2023-04-14 00:36:22
+TestAppendNode Retrieve(3) success: d
+
+
+2023-04-14 00:36:24
+TestInsertNode a success
+
+
+2023-04-14 00:36:24
+TestInsertNode b success
+
+
+2023-04-14 00:36:24
+TestInsertNode c success
+
+
+2023-04-14 00:36:24
+TestInsertNode d success
+
+
+2023-04-14 00:36:25
+TestInsertNode Insert("e", 2) success
+
+
+2023-04-14 00:36:26
+TestIsEmpty success
+
+
+2023-04-14 00:36:26
+TestIsEmpty success, Size(): 0
+
+
+2023-04-14 00:36:27
+testPrependNodes a success
+
+
+2023-04-14 00:36:27
+testPrependNodes b success
+
+
+2023-04-14 00:36:27
+testPrependNodes c success
+
+
+2023-04-14 00:36:27
+testPrependNodes d success
+
+
+2023-04-14 00:36:27
+testPrependNodes IsEmpty() success: False
+
+
+2023-04-14 00:36:27
+testPrependNodes Size() success: 4
+
+
+2023-04-14 00:36:27
+testPrependNodes Retrieve(0) success: d
+
+
+2023-04-14 00:36:27
+testPrependNodes Retrieve(1) success: c
+
+
+2023-04-14 00:36:27
+testPrependNodes Retrieve(2) success: b
+
+
+2023-04-14 00:36:27
+testPrependNodes Retrieve(3) success: a
+
+
+2023-04-14 00:37:44
+TestAppendNode a success
+
+
+2023-04-14 00:37:44
+TestAppendNode b success
+
+
+2023-04-14 00:37:44
+TestAppendNode c success
+
+
+2023-04-14 00:37:44
+TestAppendNode d success
+
+
+2023-04-14 00:37:44
+TestAppendNode IsEmpty() success: False
+
+
+2023-04-14 00:37:45
+TestAppendNode Size() success: 4
+
+
+2023-04-14 00:37:45
+TestAppendNode Retrieve(0) success: a
+
+
+2023-04-14 00:37:46
+TestAppendNode Retrieve(1) success: b
+
+
+2023-04-14 00:37:46
+TestAppendNode Retrieve(2) success: c
+
+
+2023-04-14 00:37:46
+TestAppendNode Retrieve(3) success: d
+
+
+2023-04-14 00:37:49
+TestInsertNode a success
+
+
+2023-04-14 00:37:49
+TestInsertNode b success
+
+
+2023-04-14 00:37:49
+TestInsertNode c success
+
+
+2023-04-14 00:37:49
+TestInsertNode d success
+
+
+2023-04-14 00:37:49
+TestInsertNode Insert("e", 2) success
+
+
+2023-04-14 00:37:52
+TestIsEmpty success
+
+
+2023-04-14 00:40:08
+TestAppendNode a success
+
+
+2023-04-14 00:40:08
+TestAppendNode b success
+
+
+2023-04-14 00:40:08
+TestAppendNode c success
+
+
+2023-04-14 00:40:08
+TestAppendNode d success
+
+
+2023-04-14 00:40:09
+TestAppendNode IsEmpty() success: False
+
+
+2023-04-14 00:40:09
+TestAppendNode Size() success: 4
+
+
+2023-04-14 00:40:09
+TestAppendNode Retrieve(0) success: a
+
+
+2023-04-14 00:40:10
+TestAppendNode Retrieve(1) success: b
+
+
+2023-04-14 00:40:10
+TestAppendNode Retrieve(2) success: c
+
+
+2023-04-14 00:40:10
+TestAppendNode Retrieve(3) success: d
+
+
+2023-04-14 00:40:12
+TestInsertNode a success
+
+
+2023-04-14 00:40:12
+TestInsertNode b success
+
+
+2023-04-14 00:40:12
+TestInsertNode c success
+
+
+2023-04-14 00:40:12
+TestInsertNode d success
+
+
+2023-04-14 00:40:13
+TestInsertNode Insert("e", 2) success
+
+
+2023-04-14 00:40:14
+TestIsEmpty success
+
+
+2023-04-14 00:55:27
+TestAppendNode a success
+
+
+2023-04-14 00:55:27
+TestAppendNode b success
+
+
+2023-04-14 00:55:27
+TestAppendNode c success
+
+
+2023-04-14 00:55:27
+TestAppendNode d success
+
+
+2023-04-14 00:55:27
+TestAppendNode IsEmpty() success: False
+
+
+2023-04-14 00:55:27
+TestAppendNode Size() success: 4
+
+
+2023-04-14 00:55:28
+TestAppendNode Retrieve(0) success: a 、 a
+
+
+2023-04-14 00:55:28
+TestAppendNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 00:55:28
+TestAppendNode Retrieve(2) success: c 、 c
+
+
+2023-04-14 00:55:28
+TestAppendNode Retrieve(3) success: d 、  d
+
+
+2023-04-14 00:55:28
+TestDeleteNode a success
+
+
+2023-04-14 00:55:28
+TestDeleteNode b success
+
+
+2023-04-14 00:55:28
+TestDeleteNode c success
+
+
+2023-04-14 00:55:28
+TestDeleteNode d success
+
+
+2023-04-14 00:55:28
+TestDeleteNode Delete(2) success
+
+
+2023-04-14 00:55:28
+TestDeleteNode IsEmpty() success: False
+
+
+2023-04-14 00:55:28
+TestDeleteNode Size() success: 3
+
+
+2023-04-14 00:55:28
+TestDeleteNode Retrieve(0) success: e 、 a
+
+
+2023-04-14 00:55:28
+TestDeleteNode Retrieve(1) success: e 、 b
+
+
+2023-04-14 00:55:28
+TestDeleteNode Retrieve(2) success: e 、 d
+
+
+2023-04-14 00:55:28
+TestFindNode a success
+
+
+2023-04-14 00:55:28
+TestFindNode b success
+
+
+2023-04-14 00:55:28
+TestFindNode c success
+
+
+2023-04-14 00:55:28
+TestFindNode d success
+
+
+2023-04-14 00:55:28
+TestFindNode Contains("b") success : True
+
+
+2023-04-14 00:55:28
+TestFindNode IndexOf("b") success : 1
+
+
+2023-04-14 00:55:28
+TestFindNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 00:55:29
+TestInsertNode a success
+
+
+2023-04-14 00:55:29
+TestInsertNode b success
+
+
+2023-04-14 00:55:29
+TestInsertNode c success
+
+
+2023-04-14 00:55:29
+TestInsertNode d success
+
+
+2023-04-14 00:55:29
+TestInsertNode Insert("e", 2) success
+
+
+2023-04-14 00:55:29
+TestInsertNode IsEmpty() success: False
+
+
+2023-04-14 00:55:29
+TestInsertNode Size() success: 5
+
+
+2023-04-14 00:55:29
+TestInsertNode Retrieve(0) success: a 、 a
+
+
+2023-04-14 00:55:29
+TestInsertNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 00:55:29
+TestInsertNode Retrieve(2) success: e 、 e
+
+
+2023-04-14 00:55:29
+TestInsertNode Retrieve(3) success: c 、 c
+
+
+2023-04-14 00:55:29
+TestInsertNode Retrieve(4) success: d 、 d
+
+
+2023-04-14 00:55:29
+TestIsEmpty success
+
+
+2023-04-14 00:55:30
+TestIsEmpty success, Size(): 0
+
+
+2023-04-14 00:55:30
+testPrependNodes a success
+
+
+2023-04-14 00:55:30
+testPrependNodes b success
+
+
+2023-04-14 00:55:30
+testPrependNodes c success
+
+
+2023-04-14 00:55:30
+testPrependNodes d success
+
+
+2023-04-14 00:55:31
+testPrependNodes IsEmpty() success: False
+
+
+2023-04-14 00:55:31
+testPrependNodes Size() success: 4
+
+
+2023-04-14 00:55:31
+testPrependNodes Retrieve(0) success: d 、  d
+
+
+2023-04-14 00:55:31
+testPrependNodes Retrieve(1) success: c 、 c
+
+
+2023-04-14 00:55:31
+testPrependNodes Retrieve(2) success: b 、 b
+
+
+2023-04-14 00:55:31
+testPrependNodes Retrieve(3) success: a 、 a
+
+
+2023-04-14 00:55:32
+TestReplaceNode a success
+
+
+2023-04-14 00:55:32
+TestReplaceNode b success
+
+
+2023-04-14 00:55:32
+TestReplaceNode c success
+
+
+2023-04-14 00:55:32
+TestReplaceNode d success
+
+
+2023-04-14 00:55:32
+TestReplaceNode Replace("e", 2) success
+
+
+2023-04-14 00:55:32
+TestReplaceNode IsEmpty() success: False
+
+
+2023-04-14 00:55:32
+TestReplaceNode Size() success: 4
+
+
+2023-04-14 00:55:32
+TestReplaceNode Retrieve(3) success: a 、 a
+
+
+2023-04-14 00:55:32
+TestReplaceNode Retrieve(3) success: b 、 b
+
+
+2023-04-14 00:55:32
+TestReplaceNode Retrieve(3) success: e 、 e
+
+
+2023-04-14 00:55:32
+TestReplaceNode Retrieve(3) success: d 、 d
+
+
+2023-04-14 01:05:11
+SerializationTests  Setup success
+
+
+2023-04-14 01:05:30
+SerializationTests  TestDeSerialization() success
+
+
+2023-04-14 01:05:35
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:05:39
+SerializationTests  Setup success
+
+
+2023-04-14 01:05:42
+SerializationTests  TestSerialization() SerializeUsers success
+
+
+2023-04-14 01:05:44
+SerializationTests  TestSerialization() File.Exists(testFileName) success
+
+
+2023-04-14 01:05:48
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:06:45
+SerializationTests  Setup success
+
+
+2023-04-14 01:06:46
+SerializationTests  TestDeSerialization() success
+
+
+2023-04-14 01:06:46
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:06:47
+SerializationTests  Setup success
+
+
+2023-04-14 01:06:49
+SerializationTests  TestSerialization() SerializeUsers success
+
+
+2023-04-14 01:06:49
+SerializationTests  TestSerialization() File.Exists(testFileName) success
+
+
+2023-04-14 01:06:49
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:07:01
+SerializationTests  Setup success
+
+
+2023-04-14 01:10:27
+SerializationTests  TestDeSerialization() success
+
+
+2023-04-14 01:10:27
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:10:29
+SerializationTests  Setup success
+
+
+2023-04-14 01:10:30
+SerializationTests  TestSerialization() SerializeUsers success
+
+
+2023-04-14 01:10:30
+SerializationTests  TestSerialization() File.Exists(testFileName) success
+
+
+2023-04-14 01:10:30
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:13:15
+SerializationTests  Setup success
+
+
+2023-04-14 01:14:10
+SerializationTests  Setup success
+
+
+2023-04-14 01:16:55
+SerializationTests  Setup success
+
+
+2023-04-14 01:18:00
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:18:02
+SerializationTests  Setup success
+
+
+2023-04-14 01:18:03
+SerializationTests  TestSerialization() SerializeUsers success
+
+
+2023-04-14 01:18:03
+SerializationTests  TestSerialization() File.Exists(testFileName) success
+
+
+2023-04-14 01:18:03
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:19:35
+SerializationTests  Setup success
+
+
+2023-04-14 01:20:30
+SerializationTests  Setup success
+
+
+2023-04-14 01:21:32
+SerializationTests  Setup success
+
+
+2023-04-14 01:25:11
+SerializationTests  Setup success
+
+
+2023-04-14 01:25:19
+SerializationTests  TestDeSerialization() success
+
+
+2023-04-14 01:25:19
+SerializationTests  TearDown() success
+
+
+2023-04-14 01:25:19
+SerializationTests  Setup success
+
+
+2023-04-14 01:25:20
+SerializationTests  TestSerialization() SerializeUsers success
+
+
+2023-04-14 01:25:20
+SerializationTests  TestSerialization() File.Exists(testFileName) success
+
+
+2023-04-14 01:25:20
+SerializationTests  TearDown() success
+
+
+2023-04-14 21:19:17
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:19:55
+ExtraExample1Test Append User success
+
+
+2023-04-14 21:19:58
+ExtraExample1Test Size() success
+
+
+2023-04-14 21:20:07
+ExtraExample1Test AreEqual User success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:20:07
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:36:18
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:36:32
+ExtraExample1TestAppend Append User success
+
+
+2023-04-14 21:36:32
+ExtraExample1TestAppend Size() success
+
+
+2023-04-14 21:36:32
+ExtraExample1TestAppend AreEqual User success
+
+
+2023-04-14 21:36:33
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:36:34
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:36:34
+ExtraExample2TestInsert Append User success
+
+
+2023-04-14 21:36:34
+ExtraExample2TestInsert Size() success
+
+
+2023-04-14 21:36:34
+ExtraExample2TestInsert AreEqual User success
+
+
+2023-04-14 21:36:35
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:36:36
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:36:36
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:36:36
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:37:57
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:37:58
+ExtraExample1TestAppend Append User success
+
+
+2023-04-14 21:37:58
+ExtraExample1TestAppend Size() success
+
+
+2023-04-14 21:37:58
+ExtraExample1TestAppend AreEqual User success
+
+
+2023-04-14 21:37:59
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:37:59
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:00
+ExtraExample2TestInsert Append User success
+
+
+2023-04-14 21:38:00
+ExtraExample2TestInsert Size() success
+
+
+2023-04-14 21:38:00
+ExtraExample2TestInsert AreEqual User success
+
+
+2023-04-14 21:38:00
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:38:01
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:02
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:38:02
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:38:02
+ExtraExample3TestReplace Size() success
+
+
+2023-04-14 21:38:35
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:36
+ExtraExample1TestAppend Append User success
+
+
+2023-04-14 21:38:36
+ExtraExample1TestAppend Size() success
+
+
+2023-04-14 21:38:36
+ExtraExample1TestAppend AreEqual User success
+
+
+2023-04-14 21:38:36
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:38:37
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:37
+ExtraExample2TestInsert Append User success
+
+
+2023-04-14 21:38:37
+ExtraExample2TestInsert Size() success
+
+
+2023-04-14 21:38:37
+ExtraExample2TestInsert AreEqual User success
+
+
+2023-04-14 21:38:38
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:38:38
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:39
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:38:39
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:38:39
+ExtraExample3TestReplace Size() success
+
+
+2023-04-14 21:38:39
+ExtraExample3TestReplace AreEqual User success
+
+
+2023-04-14 21:38:40
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:38:40
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:41
+ExtraExample4TestDelete Append User success
+
+
+2023-04-14 21:38:41
+ExtraExample4TestDelete Delete User success
+
+
+2023-04-14 21:38:41
+ExtraExample4TestDelete Size() success
+
+
+2023-04-14 21:38:41
+ExtraExample4TestDelete AreEqual User success
+
+
+2023-04-14 21:38:42
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:38:42
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:38:43
+ExtraExample5TestSetNode Append User success
+
+
+2023-04-14 21:40:13
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:13
+ExtraExample1TestAppend Append User success
+
+
+2023-04-14 21:40:13
+ExtraExample1TestAppend Size() success
+
+
+2023-04-14 21:40:13
+ExtraExample1TestAppend AreEqual User success
+
+
+2023-04-14 21:40:14
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:14
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:14
+ExtraExample2TestInsert Append User success
+
+
+2023-04-14 21:40:14
+ExtraExample2TestInsert Size() success
+
+
+2023-04-14 21:40:14
+ExtraExample2TestInsert AreEqual User success
+
+
+2023-04-14 21:40:15
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:15
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:15
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:40:15
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:40:15
+ExtraExample3TestReplace Size() success
+
+
+2023-04-14 21:40:15
+ExtraExample3TestReplace AreEqual User success
+
+
+2023-04-14 21:40:15
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:16
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:16
+ExtraExample4TestDelete Append User success
+
+
+2023-04-14 21:40:16
+ExtraExample4TestDelete Delete User success
+
+
+2023-04-14 21:40:16
+ExtraExample4TestDelete Size() success
+
+
+2023-04-14 21:40:16
+ExtraExample4TestDelete AreEqual User success
+
+
+2023-04-14 21:40:16
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:16
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:16
+ExtraExample5TestSetNode Append User success
+
+
+2023-04-14 21:40:16
+ExtraExample5TestSetNode Size() success
+
+
+2023-04-14 21:40:16
+ExtraExample5TestSetNode AreEqual User success
+
+
+2023-04-14 21:40:17
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:17
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:17
+TestAppendNode a success
+
+
+2023-04-14 21:40:17
+TestAppendNode b success
+
+
+2023-04-14 21:40:17
+TestAppendNode c success
+
+
+2023-04-14 21:40:17
+TestAppendNode d success
+
+
+2023-04-14 21:40:17
+TestAppendNode IsEmpty() success: False
+
+
+2023-04-14 21:40:17
+TestAppendNode Size() success: 4
+
+
+2023-04-14 21:40:17
+TestAppendNode Retrieve(0) success: a 、 a
+
+
+2023-04-14 21:40:17
+TestAppendNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 21:40:17
+TestAppendNode Retrieve(2) success: c 、 c
+
+
+2023-04-14 21:40:17
+TestAppendNode Retrieve(3) success: d 、  d
+
+
+2023-04-14 21:40:18
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:18
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:18
+TestDeleteNode a success
+
+
+2023-04-14 21:40:18
+TestDeleteNode b success
+
+
+2023-04-14 21:40:18
+TestDeleteNode c success
+
+
+2023-04-14 21:40:18
+TestDeleteNode d success
+
+
+2023-04-14 21:40:18
+TestDeleteNode Delete(2) success
+
+
+2023-04-14 21:40:18
+TestDeleteNode IsEmpty() success: False
+
+
+2023-04-14 21:40:18
+TestDeleteNode Size() success: 3
+
+
+2023-04-14 21:40:18
+TestDeleteNode Retrieve(0) success: e 、 a
+
+
+2023-04-14 21:40:18
+TestDeleteNode Retrieve(1) success: e 、 b
+
+
+2023-04-14 21:40:18
+TestDeleteNode Retrieve(2) success: e 、 d
+
+
+2023-04-14 21:40:18
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:18
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:18
+TestInsertNode a success
+
+
+2023-04-14 21:40:18
+TestInsertNode b success
+
+
+2023-04-14 21:40:18
+TestInsertNode c success
+
+
+2023-04-14 21:40:18
+TestInsertNode d success
+
+
+2023-04-14 21:40:18
+TestInsertNode Insert("e", 2) success
+
+
+2023-04-14 21:40:18
+TestInsertNode IsEmpty() success: False
+
+
+2023-04-14 21:40:18
+TestInsertNode Size() success: 5
+
+
+2023-04-14 21:40:18
+TestInsertNode Retrieve(0) success: a 、 a
+
+
+2023-04-14 21:40:18
+TestInsertNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 21:40:18
+TestInsertNode Retrieve(2) success: e 、 e
+
+
+2023-04-14 21:40:18
+TestInsertNode Retrieve(3) success: c 、 c
+
+
+2023-04-14 21:40:18
+TestInsertNode Retrieve(4) success: d 、 d
+
+
+2023-04-14 21:40:18
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:18
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:19
+TestFindNode a success
+
+
+2023-04-14 21:40:19
+TestFindNode b success
+
+
+2023-04-14 21:40:19
+TestFindNode c success
+
+
+2023-04-14 21:40:19
+TestFindNode d success
+
+
+2023-04-14 21:40:19
+TestFindNode Contains("b") success : True
+
+
+2023-04-14 21:40:19
+TestFindNode IndexOf("b") success : 1
+
+
+2023-04-14 21:40:19
+TestFindNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 21:40:19
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:19
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:20
+TestInsertNode a success
+
+
+2023-04-14 21:40:20
+TestInsertNode b success
+
+
+2023-04-14 21:40:20
+TestInsertNode c success
+
+
+2023-04-14 21:40:20
+TestInsertNode d success
+
+
+2023-04-14 21:40:20
+TestInsertNode Insert("e", 2) success
+
+
+2023-04-14 21:40:20
+TestInsertNode IsEmpty() success: False
+
+
+2023-04-14 21:40:20
+TestInsertNode Size() success: 5
+
+
+2023-04-14 21:40:20
+TestInsertNode Retrieve(0) success: a 、 a
+
+
+2023-04-14 21:40:20
+TestInsertNode Retrieve(1) success: b 、 b
+
+
+2023-04-14 21:40:20
+TestInsertNode Retrieve(2) success: e 、 e
+
+
+2023-04-14 21:40:20
+TestInsertNode Retrieve(3) success: c 、 c
+
+
+2023-04-14 21:40:21
+TestInsertNode Retrieve(4) success: d 、 d
+
+
+2023-04-14 21:40:21
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:21
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:22
+TestIsEmpty success
+
+
+2023-04-14 21:40:22
+TestIsEmpty success, Size(): 0
+
+
+2023-04-14 21:40:23
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:23
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:23
+testPrependNodes a success
+
+
+2023-04-14 21:40:23
+testPrependNodes b success
+
+
+2023-04-14 21:40:23
+testPrependNodes c success
+
+
+2023-04-14 21:40:23
+testPrependNodes d success
+
+
+2023-04-14 21:40:23
+testPrependNodes IsEmpty() success: False
+
+
+2023-04-14 21:40:23
+testPrependNodes Size() success: 4
+
+
+2023-04-14 21:40:23
+testPrependNodes Retrieve(0) success: d 、  d
+
+
+2023-04-14 21:40:23
+testPrependNodes Retrieve(1) success: c 、 c
+
+
+2023-04-14 21:40:23
+testPrependNodes Retrieve(2) success: b 、 b
+
+
+2023-04-14 21:40:23
+testPrependNodes Retrieve(3) success: a 、 a
+
+
+2023-04-14 21:40:24
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:24
+LinkedListTests  Setup() success
+
+
+2023-04-14 21:40:24
+TestReplaceNode a success
+
+
+2023-04-14 21:40:24
+TestReplaceNode b success
+
+
+2023-04-14 21:40:24
+TestReplaceNode c success
+
+
+2023-04-14 21:40:24
+TestReplaceNode d success
+
+
+2023-04-14 21:40:24
+TestReplaceNode Replace("e", 2) success
+
+
+2023-04-14 21:40:24
+TestReplaceNode IsEmpty() success: False
+
+
+2023-04-14 21:40:25
+TestReplaceNode Size() success: 4
+
+
+2023-04-14 21:40:25
+TestReplaceNode Retrieve(3) success: a 、 a
+
+
+2023-04-14 21:40:25
+TestReplaceNode Retrieve(3) success: b 、 b
+
+
+2023-04-14 21:40:25
+TestReplaceNode Retrieve(3) success: e 、 e
+
+
+2023-04-14 21:40:25
+TestReplaceNode Retrieve(3) success: d 、 d
+
+
+2023-04-14 21:40:25
+LinkedListTests  TearDown() success
+
+
+2023-04-14 21:40:25
+SerializationTests  Setup success
+
+
+2023-04-14 21:40:27
+SerializationTests  TestDeSerialization() success
+
+
+2023-04-14 21:40:27
+SerializationTests  TearDown() success
+
+
+2023-04-14 21:40:27
+SerializationTests  Setup success
+
+
+2023-04-14 21:40:28
+SerializationTests  TestSerialization() SerializeUsers success
+
+
+2023-04-14 21:40:28
+SerializationTests  TestSerialization() File.Exists(testFileName) success
+
+
+2023-04-14 21:40:28
+SerializationTests  TearDown() success
+
+
+2023-04-14 21:40:55
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:56
+ExtraExample1TestAppend Append User success
+
+
+2023-04-14 21:40:56
+ExtraExample1TestAppend Size() success
+
+
+2023-04-14 21:40:56
+ExtraExample1TestAppend AreEqual User success
+
+
+2023-04-14 21:40:58
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:58
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:40:58
+ExtraExample2TestInsert Append User success
+
+
+2023-04-14 21:40:58
+ExtraExample2TestInsert Size() success
+
+
+2023-04-14 21:40:58
+ExtraExample2TestInsert AreEqual User success
+
+
+2023-04-14 21:40:58
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:40:58
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:41:00
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:41:00
+ExtraExample3TestReplace Append User success
+
+
+2023-04-14 21:41:00
+ExtraExample3TestReplace Size() success
+
+
+2023-04-14 21:41:00
+ExtraExample3TestReplace AreEqual User success
+
+
+2023-04-14 21:41:00
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:41:00
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:41:01
+ExtraExample4TestDelete Append User success
+
+
+2023-04-14 21:41:01
+ExtraExample4TestDelete Delete User success
+
+
+2023-04-14 21:41:01
+ExtraExample4TestDelete Size() success
+
+
+2023-04-14 21:41:01
+ExtraExample4TestDelete AreEqual User success
+
+
+2023-04-14 21:41:01
+ExtraLinkedList  TearDown() success
+
+
+2023-04-14 21:41:01
+ExtraLinkedList  Setup() success
+
+
+2023-04-14 21:41:02
+ExtraExample5TestSetNode Append User success
+
+
+2023-04-14 21:41:02
+ExtraExample5TestSetNode Size() success
+
+
+2023-04-14 21:41:02
+ExtraExample5TestSetNode AreEqual User success
+
+
+2023-04-14 21:41:02
+ExtraLinkedList  TearDown() success
+
