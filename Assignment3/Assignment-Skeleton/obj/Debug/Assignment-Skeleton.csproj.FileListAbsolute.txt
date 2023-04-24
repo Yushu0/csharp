@@ -1,7 +1,0 @@
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\bin\Debug\Assignment-Skeleton.exe.config
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\bin\Debug\Assignment-Skeleton.exe
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\bin\Debug\Assignment-Skeleton.pdb
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\obj\Debug\Assignment-Skeleton.csproj.AssemblyReference.cache
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\obj\Debug\Assignment-Skeleton.csproj.CoreCompileInputs.cache
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\obj\Debug\Assignment-Skeleton.exe
-F:\接单\洽谈-作业进行时\单链表、序列化和测试\Assignment-Skeleton\Assignment-Skeleton\obj\Debug\Assignment-Skeleton.pdb
