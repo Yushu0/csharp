@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\AssignmentTest1\\AssignmentTest1.csproj": {}
+  },
+  "projects": {
+    "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\Assignment-Skeleton\\Assignment-Skeleton.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\Assignment-Skeleton\\Assignment-Skeleton.csproj",
+        "projectName": "Assignment-Skeleton",
+        "projectPath": "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\Assignment-Skeleton\\Assignment-Skeleton.csproj",
+        "frameworks": {
+          "net45": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net45": {}
+      }
+    },
+    "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\AssignmentTest1\\AssignmentTest1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\AssignmentTest1\\AssignmentTest1.csproj",
+        "projectName": "AssignmentTest1",
+        "projectPath": "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\AssignmentTest1\\AssignmentTest1.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\AssignmentTest1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\Assignment-Skeleton\\Assignment-Skeleton.csproj": {
+                "projectPath": "F:\\接单\\洽谈-作业进行时\\单链表、序列化和测试\\Assignment-Skeleton\\Assignment-Skeleton\\Assignment-Skeleton.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
