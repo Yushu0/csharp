@@ -1,0 +1,4189 @@
+
+2023-04-22 14:40:58
+application start 
+
+
+2023-04-22 14:41:00
+Connect to MariaDB ecxception, message: 对象不能从 DBNull 转换为其他类型。 、builder info: 对象不能从 DBNull 转换为其他类型。
+
+
+2023-04-22 14:42:55
+application start 
+
+
+2023-04-22 14:42:56
+Connect to MariaDB ecxception, message: 对象不能从 DBNull 转换为其他类型。 、builder info: database=moviemanagement;server=localhost;port=3307;user id=root;password=123456;characterset=utf8mb4
+
+
+2023-04-22 14:43:15
+application start 
+
+
+2023-04-22 14:43:42
+application start 
+
+
+2023-04-22 14:48:46
+application start 
+
+
+2023-04-22 14:48:59
+Connect to MariaDB successfully !
+
+
+2023-04-22 14:49:48
+application start 
+
+
+2023-04-22 14:50:16
+application start 
+
+
+2023-04-22 14:50:33
+application start 
+
+
+2023-04-22 14:54:21
+application start 
+
+
+2023-04-22 15:23:08
+application start 
+
+
+2023-04-22 15:29:19
+application start 
+
+
+2023-04-22 15:33:34
+application start 
+
+
+2023-04-22 15:34:39
+application start 
+
+
+2023-04-22 15:35:01
+application start 
+
+
+2023-04-22 15:41:55
+application start 
+
+
+2023-04-22 15:45:02
+application start 
+
+
+2023-04-22 15:46:02
+application start 
+
+
+2023-04-22 16:21:34
+application start 
+
+
+2023-04-22 16:26:27
+application start 
+
+
+2023-04-22 17:34:06
+application start 
+
+
+2023-04-22 17:35:36
+application start 
+
+
+2023-04-22 17:39:18
+application start 
+
+
+2023-04-22 17:39:40
+Connect to MariaDB successfully !
+
+
+2023-04-22 17:39:48
+Get strQuerySql: select * from movie
+
+
+2023-04-22 17:40:42
+application start 
+
+
+2023-04-22 17:40:57
+Connect to MariaDB successfully !
+
+
+2023-04-22 17:41:01
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 17:42:44
+application start 
+
+
+2023-04-22 17:42:50
+Connect to MariaDB successfully !
+
+
+2023-04-22 17:42:53
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 17:44:10
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 17:48:38
+application start 
+
+
+2023-04-22 17:48:45
+Connect to MariaDB successfully !
+
+
+2023-04-22 17:48:46
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 17:48:46
+Get MariaDB error ex.Message: Can't call this method when MySqlDataReader is closed.、 strQuerySql: select * from movies 
+
+
+2023-04-22 17:48:51
+application start 
+
+
+2023-04-22 17:48:57
+Connect to MariaDB successfully !
+
+
+2023-04-22 17:49:07
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 17:58:40
+application start 
+
+
+2023-04-22 17:58:43
+Connect to MariaDB successfully !
+
+
+2023-04-22 17:58:46
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 17:59:04
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:14:34
+application start 
+
+
+2023-04-22 18:17:16
+application start 
+
+
+2023-04-22 18:17:42
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:17:44
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:17:48
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:20:03
+application start 
+
+
+2023-04-22 18:20:10
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:20:20
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:20:20
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:20:22
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:20:22
+Get MariaDB error ex.Message: 类型“System.UInt64”的对象无法转换为类型“System.Boolean”。、 strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:21:00
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:21:53
+Get MariaDB error ex.Message: 类型“System.UInt64”的对象无法转换为类型“System.Boolean”。、 strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:22:12
+application start 
+
+
+2023-04-22 18:22:14
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:22:15
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:22:16
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:22:17
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:23:22
+application start 
+
+
+2023-04-22 18:23:25
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:23:31
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:23:31
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:23:32
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:23:32
+Get MariaDB successfully strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:39:44
+application start 
+
+
+2023-04-22 18:39:48
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:39:57
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:39:57
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:39:58
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:39:58
+Get MariaDB successfully strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:40:07
+Get strQuerySql:  select * from userinfo where LoginName = '1' and PassWord='1' 
+
+
+2023-04-22 18:40:07
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = '1' and PassWord='1' 
+
+
+2023-04-22 18:40:07
+Login not found userinfo with UserName is 1 and PassWord is 1 !
+
+
+2023-04-22 18:40:20
+Get strQuerySql:  select * from userinfo where LoginName = '1' and PassWord='1' 
+
+
+2023-04-22 18:40:20
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = '1' and PassWord='1' 
+
+
+2023-04-22 18:40:56
+Login not found userinfo with UserName is 1 and PassWord is 1 !
+
+
+2023-04-22 18:41:28
+application start 
+
+
+2023-04-22 18:41:32
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:41:34
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:41:34
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:41:35
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:41:35
+Get MariaDB successfully strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:42:05
+Login UserName is empty !
+
+
+2023-04-22 18:42:16
+Login PassWord is empty !
+
+
+2023-04-22 18:42:24
+Get strQuerySql:  select * from userinfo where LoginName = '1' and PassWord='1' 
+
+
+2023-04-22 18:42:24
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = '1' and PassWord='1' 
+
+
+2023-04-22 18:42:24
+Login: not found userinfo with UserName is 1 and PassWord is 1 !
+
+
+2023-04-22 18:43:24
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 18:43:24
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 18:44:05
+application start 
+
+
+2023-04-22 18:44:08
+Connect to MariaDB successfully !
+
+
+2023-04-22 18:44:10
+Get strQuerySql: select * from movies 
+
+
+2023-04-22 18:44:11
+Get MariaDB successfully strQuerySql: select * from movies 
+
+
+2023-04-22 18:44:13
+Get strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:44:13
+Get MariaDB successfully strQuerySql: select * from userinfo 
+
+
+2023-04-22 18:44:22
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 18:44:22
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 18:44:22
+Login successfully !
+
+
+2023-04-22 19:09:17
+application start 
+
+
+2023-04-22 19:10:08
+application start 
+
+
+2023-04-22 19:10:12
+Register、 UserName can not be empty ! 
+
+
+2023-04-22 19:10:19
+Register、 PassWord can not be empty ! 
+
+
+2023-04-22 19:10:21
+Register、 FirstName can not be empty ! 
+
+
+2023-04-22 19:10:23
+Register、 FirstName can not be empty ! 
+
+
+2023-04-22 19:10:26
+Register、 SurName can not be empty ! 
+
+
+2023-04-22 19:10:30
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:10:30
+Insert MariaDB successfully strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`) VALUES (  '1', '1', '2023-04-22', '0', '1', '1');"]
+
+
+2023-04-22 19:10:30
+Close MariaDB successfully !
+
+
+2023-04-22 19:10:30
+Register successfully !
+
+
+2023-04-22 19:11:09
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:11:09
+Insert MariaDB successfully strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`) VALUES (  '22222', '22222', '2009-01-01', '1', '2222', '22222222');"]
+
+
+2023-04-22 19:11:09
+Close MariaDB successfully !
+
+
+2023-04-22 19:11:09
+Register successfully !
+
+
+2023-04-22 19:11:56
+application start 
+
+
+2023-04-22 19:14:47
+application start 
+
+
+2023-04-22 19:15:32
+application start 
+
+
+2023-04-22 19:15:39
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:15:39
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:15:39
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:15:39
+Close MariaDB successfully !
+
+
+2023-04-22 19:15:39
+Login successfully !
+
+
+2023-04-22 19:18:43
+application start 
+
+
+2023-04-22 19:18:50
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:18:50
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:18:50
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:18:50
+Close MariaDB successfully !
+
+
+2023-04-22 19:18:50
+Login successfully !
+
+
+2023-04-22 19:25:17
+application start 
+
+
+2023-04-22 19:25:24
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:25:24
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:25:25
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:25:25
+Close MariaDB successfully !
+
+
+2023-04-22 19:25:25
+Login successfully !
+
+
+2023-04-22 19:25:46
+application start 
+
+
+2023-04-22 19:25:48
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:25:48
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:25:48
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:25:48
+Close MariaDB successfully !
+
+
+2023-04-22 19:25:48
+Login successfully !
+
+
+2023-04-22 19:26:30
+application start 
+
+
+2023-04-22 19:26:32
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:26:32
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:26:32
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:26:32
+Close MariaDB successfully !
+
+
+2023-04-22 19:26:32
+Login successfully !
+
+
+2023-04-22 19:26:49
+application start 
+
+
+2023-04-22 19:26:51
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:26:51
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:26:51
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:26:51
+Close MariaDB successfully !
+
+
+2023-04-22 19:26:51
+Login successfully !
+
+
+2023-04-22 19:27:14
+application start 
+
+
+2023-04-22 19:27:16
+Connect to MariaDB successfully !
+
+
+2023-04-22 19:27:16
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:27:16
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 19:27:16
+Close MariaDB successfully !
+
+
+2023-04-22 19:27:16
+Login successfully !
+
+
+2023-04-22 23:03:01
+application start 
+
+
+2023-04-22 23:05:24
+application start 
+
+
+2023-04-22 23:05:29
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:05:29
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:05:29
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:05:29
+Close MariaDB successfully !
+
+
+2023-04-22 23:05:29
+Login successfully !
+
+
+2023-04-22 23:05:46
+Get strQuerySql: select * from userinfo where ID='1'
+
+
+2023-04-22 23:05:46
+Get MariaDB error ex.Message: Connection property must be non-null.、 strQuerySql: select * from userinfo where ID='1'
+
+
+2023-04-22 23:06:27
+Get strQuerySql: select * from userinfo where ID='1'
+
+
+2023-04-22 23:06:28
+Get MariaDB error ex.Message: Connection property must be non-null.、 strQuerySql: select * from userinfo where ID='1'
+
+
+2023-04-22 23:07:22
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:07:22
+Get MariaDB error ex.Message: Connection property must be non-null.、 strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:08:09
+application start 
+
+
+2023-04-22 23:08:15
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:08:15
+Get strQuerySql:  select * from userinfo where LoginName = '222' and PassWord='222' 
+
+
+2023-04-22 23:08:15
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = '222' and PassWord='222' 
+
+
+2023-04-22 23:08:15
+Close MariaDB successfully !
+
+
+2023-04-22 23:08:15
+Login successfully !
+
+
+2023-04-22 23:08:22
+Get strQuerySql: select * from userinfo where ID=3
+
+
+2023-04-22 23:08:22
+Get MariaDB error ex.Message: Connection property must be non-null.、 strQuerySql: select * from userinfo where ID=3
+
+
+2023-04-22 23:08:38
+Get strQuerySql: select * from userinfo where ID=3
+
+
+2023-04-22 23:09:18
+application start 
+
+
+2023-04-22 23:09:19
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:09:19
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:09:20
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:09:20
+Close MariaDB successfully !
+
+
+2023-04-22 23:09:20
+Login successfully !
+
+
+2023-04-22 23:09:24
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:09:24
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:09:24
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:09:24
+Close MariaDB successfully !
+
+
+2023-04-22 23:21:53
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:21:53
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:21:53
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:21:53
+Close MariaDB successfully !
+
+
+2023-04-22 23:22:08
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:22:08
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:22:08
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:22:08
+Close MariaDB successfully !
+
+
+2023-04-22 23:22:51
+application start 
+
+
+2023-04-22 23:22:59
+application start 
+
+
+2023-04-22 23:23:02
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:23:02
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:23:02
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:23:02
+Close MariaDB successfully !
+
+
+2023-04-22 23:23:02
+Login successfully !
+
+
+2023-04-22 23:23:44
+application start 
+
+
+2023-04-22 23:23:50
+application start 
+
+
+2023-04-22 23:23:52
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:23:52
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:23:52
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:23:52
+Close MariaDB successfully !
+
+
+2023-04-22 23:23:52
+Login successfully !
+
+
+2023-04-22 23:23:56
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:23:56
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:23:56
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:23:56
+Close MariaDB successfully !
+
+
+2023-04-22 23:24:51
+application start 
+
+
+2023-04-22 23:24:54
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:24:54
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:24:54
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:24:54
+Close MariaDB successfully !
+
+
+2023-04-22 23:24:54
+Login successfully !
+
+
+2023-04-22 23:24:56
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:24:56
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:24:56
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-22 23:24:56
+Close MariaDB successfully !
+
+
+2023-04-22 23:25:04
+application start 
+
+
+2023-04-22 23:25:19
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:25:19
+Insert MariaDB successfully strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`) VALUES (  '3333333', '3333333', '2023-04-05', '1', '3333', '3333333');"]
+
+
+2023-04-22 23:25:19
+Close MariaDB successfully !
+
+
+2023-04-22 23:25:19
+Register successfully !
+
+
+2023-04-22 23:25:32
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:25:32
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:25:32
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-22 23:25:32
+Close MariaDB successfully !
+
+
+2023-04-22 23:25:32
+Login successfully !
+
+
+2023-04-22 23:31:24
+application start 
+
+
+2023-04-22 23:31:36
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:31:37
+Insert MariaDB error ex.Message:Column count doesn't match value count at row 1 strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`,`Role`) VALUES (  '444444', '4444', '2023-04-05', '1', '44444', '444444444');"]
+
+
+2023-04-22 23:31:37
+Close MariaDB successfully !
+
+
+2023-04-22 23:31:37
+Register successfully !
+
+
+2023-04-22 23:33:16
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:33:16
+Insert MariaDB successfully strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`,`Role`) VALUES (  '44444444444', '444444444', '2023-04-05', '0', '44444444', '4444444444', 'DefaultUser');"]
+
+
+2023-04-22 23:33:16
+Close MariaDB successfully !
+
+
+2023-04-22 23:33:16
+Register successfully !
+
+
+2023-04-22 23:34:16
+Connect to MariaDB successfully !
+
+
+2023-04-22 23:34:18
+Insert MariaDB error ex.Message:Column count doesn't match value count at row 1 strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`,`Role`) VALUES (  '555555', '5555555555', '2023-04-22', '1', '5555', '555555555');"]
+
+
+2023-04-23 21:00:26
+application start 
+
+
+2023-04-23 21:00:39
+Connect to MariaDB successfully !
+
+
+2023-04-23 21:00:39
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:00:48
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:01:00
+Close MariaDB successfully !
+
+
+2023-04-23 21:01:00
+Login successfully !
+
+
+2023-04-23 21:02:39
+application start 
+
+
+2023-04-23 21:02:45
+Connect to MariaDB successfully !
+
+
+2023-04-23 21:02:45
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:02:45
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:02:45
+Close MariaDB successfully !
+
+
+2023-04-23 21:02:45
+Login successfully !
+
+
+2023-04-23 21:08:25
+application start 
+
+
+2023-04-23 21:08:34
+Connect to MariaDB successfully !
+
+
+2023-04-23 21:08:34
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:08:34
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:08:34
+Close MariaDB successfully !
+
+
+2023-04-23 21:08:34
+Login successfully !
+
+
+2023-04-23 21:10:08
+application start 
+
+
+2023-04-23 21:10:13
+Connect to MariaDB successfully !
+
+
+2023-04-23 21:10:13
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:10:13
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:10:13
+Close MariaDB successfully !
+
+
+2023-04-23 21:10:13
+Login successfully !
+
+
+2023-04-23 21:14:44
+application start 
+
+
+2023-04-23 21:15:00
+Connect to MariaDB successfully !
+
+
+2023-04-23 21:15:00
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:15:00
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:15:00
+Close MariaDB successfully !
+
+
+2023-04-23 21:15:00
+Login successfully !
+
+
+2023-04-23 21:15:29
+application start 
+
+
+2023-04-23 21:15:34
+Connect to MariaDB successfully !
+
+
+2023-04-23 21:15:34
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:15:34
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 21:15:34
+Close MariaDB successfully !
+
+
+2023-04-23 21:15:34
+Login successfully !
+
+
+2023-04-23 22:02:46
+application start 
+
+
+2023-04-23 22:02:52
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:02:52
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 22:02:53
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 22:02:53
+Close MariaDB successfully !
+
+
+2023-04-23 22:02:53
+Login successfully !
+
+
+2023-04-23 22:03:20
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:03:20
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-23 22:03:21
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-23 22:03:21
+Close MariaDB successfully !
+
+
+2023-04-23 22:04:00
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:04:01
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 22:04:01
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 22:04:01
+Close MariaDB successfully !
+
+
+2023-04-23 22:05:15
+application start 
+
+
+2023-04-23 22:05:20
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:05:20
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 22:05:20
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 22:05:20
+Close MariaDB successfully !
+
+
+2023-04-23 22:05:20
+Login successfully !
+
+
+2023-04-23 22:05:23
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:05:26
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 22:05:26
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 22:05:26
+Close MariaDB successfully !
+
+
+2023-04-23 22:07:06
+application start 
+
+
+2023-04-23 22:07:11
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:07:11
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 22:07:11
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 22:07:11
+Close MariaDB successfully !
+
+
+2023-04-23 22:07:11
+Login successfully !
+
+
+2023-04-23 22:07:13
+Connect to MariaDB successfully !
+
+
+2023-04-23 22:07:13
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 22:07:13
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 22:07:13
+Close MariaDB successfully !
+
+
+2023-04-23 23:19:43
+application start 
+
+
+2023-04-23 23:20:17
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:20:17
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:20:17
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:20:17
+Close MariaDB successfully !
+
+
+2023-04-23 23:20:17
+Login successfully !
+
+
+2023-04-23 23:20:22
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:20:22
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-23 23:20:22
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-23 23:20:22
+Close MariaDB successfully !
+
+
+2023-04-23 23:20:28
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:20:28
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-23 23:20:28
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-23 23:20:28
+Close MariaDB successfully !
+
+
+2023-04-23 23:20:31
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:20:31
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:20:31
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:20:31
+Close MariaDB successfully !
+
+
+2023-04-23 23:20:53
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:20:53
+Get strQuerySql:  select * from userinfo where id=5
+
+
+2023-04-23 23:20:53
+Get MariaDB successfully strQuerySql:  select * from userinfo where id=5
+
+
+2023-04-23 23:20:53
+Close MariaDB successfully !
+
+
+2023-04-23 23:21:01
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:21:01
+ExecuteQuery successfully strSql: update userinfo set Role='' where id=5
+
+
+2023-04-23 23:21:01
+Update MariaDB successfully !
+
+
+2023-04-23 23:21:01
+Close MariaDB successfully !
+
+
+2023-04-23 23:21:01
+SetRole successfully ! 
+
+
+2023-04-23 23:21:05
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:21:05
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:21:05
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:21:05
+Close MariaDB successfully !
+
+
+2023-04-23 23:22:10
+application start 
+
+
+2023-04-23 23:22:15
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:22:15
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:22:15
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:22:15
+Close MariaDB successfully !
+
+
+2023-04-23 23:22:15
+Login successfully !
+
+
+2023-04-23 23:22:18
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:22:18
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:22:18
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:22:18
+Close MariaDB successfully !
+
+
+2023-04-23 23:23:59
+application start 
+
+
+2023-04-23 23:24:04
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:04
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:24:04
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:24:04
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:04
+Login successfully !
+
+
+2023-04-23 23:24:09
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:09
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:24:09
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:24:09
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:19
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:21
+Get strQuerySql:  select * from userinfo where id=5
+
+
+2023-04-23 23:24:21
+Get MariaDB successfully strQuerySql:  select * from userinfo where id=5
+
+
+2023-04-23 23:24:26
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:36
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:36
+ExecuteQuery successfully strSql: update userinfo set Role='Admin' where id=5
+
+
+2023-04-23 23:24:36
+Update MariaDB successfully !
+
+
+2023-04-23 23:24:36
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:36
+SetRole successfully ! 
+
+
+2023-04-23 23:24:39
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:39
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:24:39
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:24:39
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:47
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:47
+Get strQuerySql:  select * from userinfo where id=5
+
+
+2023-04-23 23:24:47
+Get MariaDB successfully strQuerySql:  select * from userinfo where id=5
+
+
+2023-04-23 23:24:47
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:52
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:52
+ExecuteQuery successfully strSql: update userinfo set Role='Admin' where id=5
+
+
+2023-04-23 23:24:52
+Update MariaDB successfully !
+
+
+2023-04-23 23:24:52
+Close MariaDB successfully !
+
+
+2023-04-23 23:24:52
+SetRole successfully ! 
+
+
+2023-04-23 23:24:56
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:24:56
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:24:56
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:24:56
+Close MariaDB successfully !
+
+
+2023-04-23 23:25:12
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:25:12
+ExecuteQuery successfully strSql: update userinfo set PassWord='123456' where id=5
+
+
+2023-04-23 23:25:12
+Update MariaDB successfully !
+
+
+2023-04-23 23:25:12
+Close MariaDB successfully !
+
+
+2023-04-23 23:25:12
+ResetPassWord successfully ! New PassWord: 123456 
+
+
+2023-04-23 23:25:13
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:25:13
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:25:13
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:25:14
+Close MariaDB successfully !
+
+
+2023-04-23 23:27:07
+application start 
+
+
+2023-04-23 23:27:27
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:27:27
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:27:27
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:27:27
+Close MariaDB successfully !
+
+
+2023-04-23 23:27:27
+Login successfully !
+
+
+2023-04-23 23:27:28
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:27:28
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:27:28
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:27:29
+Close MariaDB successfully !
+
+
+2023-04-23 23:27:35
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:27:36
+Insert MariaDB successfully strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`,`Role`) VALUES (  '99999', '999999', '2023-04-23', '1', '999999', '99999', 'DefaultUser');"]
+
+
+2023-04-23 23:27:36
+Close MariaDB successfully !
+
+
+2023-04-23 23:27:36
+Register successfully !
+
+
+2023-04-23 23:27:49
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:27:49
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:27:49
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:27:49
+Close MariaDB successfully !
+
+
+2023-04-23 23:27:59
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:27:59
+Get strQuerySql:  select * from userinfo where id=6
+
+
+2023-04-23 23:27:59
+Get MariaDB successfully strQuerySql:  select * from userinfo where id=6
+
+
+2023-04-23 23:27:59
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:07
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:07
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:28:07
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:28:07
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:09
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:09
+Get strQuerySql:  select * from userinfo where id=6
+
+
+2023-04-23 23:28:09
+Get MariaDB successfully strQuerySql:  select * from userinfo where id=6
+
+
+2023-04-23 23:28:09
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:14
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:14
+ExecuteQuery successfully strSql: update userinfo set Role='DefaultUser' where id=6
+
+
+2023-04-23 23:28:14
+Update MariaDB successfully !
+
+
+2023-04-23 23:28:14
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:14
+SetRole successfully ! 
+
+
+2023-04-23 23:28:25
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:25
+ExecuteQuery successfully strSql: update userinfo set Role='DefaultUser' where id=6
+
+
+2023-04-23 23:28:25
+Update MariaDB successfully !
+
+
+2023-04-23 23:28:25
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:25
+SetRole successfully ! 
+
+
+2023-04-23 23:28:39
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:39
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:28:39
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:28:39
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:46
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:46
+ExecuteQuery successfully strSql: update userinfo set PassWord='123456' where id=4
+
+
+2023-04-23 23:28:46
+Update MariaDB successfully !
+
+
+2023-04-23 23:28:46
+Close MariaDB successfully !
+
+
+2023-04-23 23:28:46
+ResetPassWord successfully ! New PassWord: 123456 
+
+
+2023-04-23 23:28:47
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:28:47
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:28:47
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:28:47
+Close MariaDB successfully !
+
+
+2023-04-23 23:47:14
+application start 
+
+
+2023-04-23 23:47:20
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:47:20
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:47:20
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:47:20
+Close MariaDB successfully !
+
+
+2023-04-23 23:47:20
+Login successfully !
+
+
+2023-04-23 23:47:20
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:47:20
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-23 23:47:20
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-23 23:47:20
+Close MariaDB successfully !
+
+
+2023-04-23 23:47:24
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:47:24
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:47:24
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:47:24
+Close MariaDB successfully !
+
+
+2023-04-23 23:48:09
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:48:09
+Insert MariaDB successfully strSqlList: [" INSERT INTO userinfo(`FirstName`, `SurName`, `Birthday`, `ReceiveUpdates`, `LoginName`, `PassWord`,`Role`) VALUES (  '8888888', '8888888888', '2023-04-23', '1', '888888888', '88888888', 'DefaultUser');"]
+
+
+2023-04-23 23:48:09
+Close MariaDB successfully !
+
+
+2023-04-23 23:48:09
+AddUser successfully !
+
+
+2023-04-23 23:48:10
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:48:10
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:48:10
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-23 23:48:10
+Close MariaDB successfully !
+
+
+2023-04-23 23:50:50
+application start 
+
+
+2023-04-23 23:50:56
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:50:56
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:50:56
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-23 23:50:56
+Close MariaDB successfully !
+
+
+2023-04-23 23:50:56
+Login successfully !
+
+
+2023-04-23 23:50:59
+Connect to MariaDB successfully !
+
+
+2023-04-23 23:51:02
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-23 23:51:08
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-23 23:51:44
+Close MariaDB successfully !
+
+
+2023-04-24 00:11:15
+application start 
+
+
+2023-04-24 00:11:33
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:11:33
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:11:33
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:11:33
+Close MariaDB successfully !
+
+
+2023-04-24 00:11:33
+Login successfully !
+
+
+2023-04-24 00:11:36
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:11:36
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:11:36
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:11:37
+Close MariaDB successfully !
+
+
+2023-04-24 00:12:11
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:12:12
+Insert MariaDB error ex.Message:You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '`year``) VALUES (  139, '139', 2023)' at line 1 strSqlList: [" INSERT INTO movies(`duration`, `title`, `year``) VALUES (  139, '139', 2023);"]
+
+
+2023-04-24 00:12:12
+Close MariaDB successfully !
+
+
+2023-04-24 00:12:12
+AddMovie error, please check info again !
+
+
+2023-04-24 00:12:22
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:12:22
+Get strQuerySql: select * from movies where year like '%1996%' order by id desc 
+
+
+2023-04-24 00:12:22
+Get MariaDB successfully strQuerySql: select * from movies where year like '%1996%' order by id desc 
+
+
+2023-04-24 00:12:22
+Close MariaDB successfully !
+
+
+2023-04-24 00:12:35
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:12:35
+Get strQuerySql: select * from movies where year like '%1998%' order by id desc 
+
+
+2023-04-24 00:12:35
+Get MariaDB successfully strQuerySql: select * from movies where year like '%1998%' order by id desc 
+
+
+2023-04-24 00:12:35
+Close MariaDB successfully !
+
+
+2023-04-24 00:12:38
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:12:38
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-24 00:12:38
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-24 00:12:38
+Close MariaDB successfully !
+
+
+2023-04-24 00:14:50
+application start 
+
+
+2023-04-24 00:15:56
+application start 
+
+
+2023-04-24 00:16:01
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:16:01
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:16:01
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:16:01
+Close MariaDB successfully !
+
+
+2023-04-24 00:16:01
+Login successfully !
+
+
+2023-04-24 00:16:04
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:16:04
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:16:04
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:16:04
+Close MariaDB successfully !
+
+
+2023-04-24 00:17:54
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:17:54
+Insert MariaDB successfully strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  139, '139', 2023);"]
+
+
+2023-04-24 00:17:54
+Close MariaDB successfully !
+
+
+2023-04-24 00:17:54
+AddMovie successfully !
+
+
+2023-04-24 00:18:03
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:18:03
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:18:03
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:18:03
+Close MariaDB successfully !
+
+
+2023-04-24 00:18:14
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:18:14
+Get strQuerySql: select * from movies where year like '%2023%' order by id desc 
+
+
+2023-04-24 00:18:14
+Get MariaDB successfully strQuerySql: select * from movies where year like '%2023%' order by id desc 
+
+
+2023-04-24 00:18:14
+Close MariaDB successfully !
+
+
+2023-04-24 00:18:16
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:18:16
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-24 00:18:16
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-24 00:18:16
+Close MariaDB successfully !
+
+
+2023-04-24 00:18:58
+application start 
+
+
+2023-04-24 00:19:18
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:19:18
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:19:19
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:19:19
+Close MariaDB successfully !
+
+
+2023-04-24 00:19:19
+Login successfully !
+
+
+2023-04-24 00:19:19
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:19:19
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:19:19
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:19:19
+Close MariaDB successfully !
+
+
+2023-04-24 00:19:24
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:20:47
+application start 
+
+
+2023-04-24 00:20:53
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:20:53
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:20:53
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:20:53
+Close MariaDB successfully !
+
+
+2023-04-24 00:20:53
+Login successfully !
+
+
+2023-04-24 00:20:53
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:20:53
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:20:54
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:20:54
+Close MariaDB successfully !
+
+
+2023-04-24 00:20:58
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:21:19
+application start 
+
+
+2023-04-24 00:21:24
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:21:24
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:21:24
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:21:24
+Close MariaDB successfully !
+
+
+2023-04-24 00:21:24
+Login successfully !
+
+
+2023-04-24 00:21:25
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:21:25
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:21:25
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:21:25
+Close MariaDB successfully !
+
+
+2023-04-24 00:21:27
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:21:47
+application start 
+
+
+2023-04-24 00:21:52
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:21:52
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:21:53
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:21:53
+Close MariaDB successfully !
+
+
+2023-04-24 00:21:53
+Login successfully !
+
+
+2023-04-24 00:21:53
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:21:53
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:21:53
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:21:53
+Close MariaDB successfully !
+
+
+2023-04-24 00:23:23
+application start 
+
+
+2023-04-24 00:23:28
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:23:28
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:23:28
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:23:28
+Close MariaDB successfully !
+
+
+2023-04-24 00:23:28
+Login successfully !
+
+
+2023-04-24 00:23:29
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:23:29
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:23:29
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:23:29
+Close MariaDB successfully !
+
+
+2023-04-24 00:24:05
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:24:44
+application start 
+
+
+2023-04-24 00:24:49
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:24:49
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:24:50
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:24:50
+Close MariaDB successfully !
+
+
+2023-04-24 00:24:50
+Login successfully !
+
+
+2023-04-24 00:24:50
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:24:50
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:24:50
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:24:50
+Close MariaDB successfully !
+
+
+2023-04-24 00:24:52
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:24:52
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:24:52
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:24:52
+Close MariaDB successfully !
+
+
+2023-04-24 00:24:56
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:24:56
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:24:56
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:24:56
+Close MariaDB successfully !
+
+
+2023-04-24 00:26:44
+application start 
+
+
+2023-04-24 00:26:48
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:26:48
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:26:49
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:26:49
+Close MariaDB successfully !
+
+
+2023-04-24 00:26:49
+Login successfully !
+
+
+2023-04-24 00:26:49
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:26:49
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:26:49
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:26:49
+Close MariaDB successfully !
+
+
+2023-04-24 00:31:32
+application start 
+
+
+2023-04-24 00:31:37
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:31:37
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:31:37
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:31:37
+Close MariaDB successfully !
+
+
+2023-04-24 00:31:37
+Login successfully !
+
+
+2023-04-24 00:31:38
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:31:38
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:31:38
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:31:38
+Close MariaDB successfully !
+
+
+2023-04-24 00:33:41
+Login ex: 未能找到名为 title 的列。
+参数名: columnName
+
+
+2023-04-24 00:34:20
+application start 
+
+
+2023-04-24 00:34:26
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:34:26
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:34:26
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:34:26
+Close MariaDB successfully !
+
+
+2023-04-24 00:34:26
+Login successfully !
+
+
+2023-04-24 00:34:26
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:34:26
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:34:27
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:34:27
+Close MariaDB successfully !
+
+
+2023-04-24 00:34:29
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:34:29
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:34:29
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:34:29
+Close MariaDB successfully !
+
+
+2023-04-24 00:34:33
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:34:33
+Get strQuerySql:  select * from userinfo where id=7
+
+
+2023-04-24 00:34:33
+Get MariaDB successfully strQuerySql:  select * from userinfo where id=7
+
+
+2023-04-24 00:34:33
+Close MariaDB successfully !
+
+
+2023-04-24 00:34:34
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:34:34
+ExecuteQuery successfully strSql: update userinfo set Role='DefaultUser' where id=7
+
+
+2023-04-24 00:34:34
+Update MariaDB successfully !
+
+
+2023-04-24 00:34:34
+Close MariaDB successfully !
+
+
+2023-04-24 00:34:34
+SetRole successfully ! 
+
+
+2023-04-24 00:34:37
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:34:37
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:34:37
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-24 00:34:37
+Close MariaDB successfully !
+
+
+2023-04-24 00:37:37
+application start 
+
+
+2023-04-24 00:37:43
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:37:43
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:37:43
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:37:43
+Close MariaDB successfully !
+
+
+2023-04-24 00:37:43
+Login successfully !
+
+
+2023-04-24 00:37:44
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:37:44
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:37:44
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:37:44
+Close MariaDB successfully !
+
+
+2023-04-24 00:37:48
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:38:01
+application start 
+
+
+2023-04-24 00:38:08
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:38:08
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:38:08
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:38:08
+Close MariaDB successfully !
+
+
+2023-04-24 00:38:08
+Login successfully !
+
+
+2023-04-24 00:38:09
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:38:09
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:38:09
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:38:09
+Close MariaDB successfully !
+
+
+2023-04-24 00:38:13
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:38:36
+application start 
+
+
+2023-04-24 00:38:45
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:38:45
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:38:45
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:38:45
+Close MariaDB successfully !
+
+
+2023-04-24 00:38:45
+Login successfully !
+
+
+2023-04-24 00:38:45
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:38:45
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:38:45
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:38:45
+Close MariaDB successfully !
+
+
+2023-04-24 00:39:11
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:43:04
+application start 
+
+
+2023-04-24 00:43:09
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:43:09
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:43:09
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:43:09
+Close MariaDB successfully !
+
+
+2023-04-24 00:43:09
+Login successfully !
+
+
+2023-04-24 00:43:10
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:43:10
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:43:10
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:43:10
+Close MariaDB successfully !
+
+
+2023-04-24 00:43:26
+Login ex: 未能找到名为 id 的列。
+参数名: columnName
+
+
+2023-04-24 00:43:31
+application start 
+
+
+2023-04-24 00:43:36
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:43:36
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:43:36
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:43:36
+Close MariaDB successfully !
+
+
+2023-04-24 00:43:36
+Login successfully !
+
+
+2023-04-24 00:43:36
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:43:36
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:43:36
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:43:36
+Close MariaDB successfully !
+
+
+2023-04-24 00:44:02
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:44:02
+ExecuteQuery successfully strSql: delete from movies where id=501
+
+
+2023-04-24 00:44:02
+Delete MariaDB successfully !
+
+
+2023-04-24 00:44:02
+Close MariaDB successfully !
+
+
+2023-04-24 00:44:02
+DeleteMovie successfully !
+
+
+2023-04-24 00:44:03
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:44:03
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:44:03
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:44:03
+Close MariaDB successfully !
+
+
+2023-04-24 00:47:43
+application start 
+
+
+2023-04-24 00:47:49
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:47:49
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:47:49
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:47:49
+Close MariaDB successfully !
+
+
+2023-04-24 00:47:49
+Login successfully !
+
+
+2023-04-24 00:47:49
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:47:49
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:47:49
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:47:49
+Close MariaDB successfully !
+
+
+2023-04-24 00:48:02
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:48:02
+Insert MariaDB successfully strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  1, '1', 1999);"]
+
+
+2023-04-24 00:48:02
+Close MariaDB successfully !
+
+
+2023-04-24 00:48:02
+AddMovie successfully !
+
+
+2023-04-24 00:48:05
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:48:05
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:48:05
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:48:05
+Close MariaDB successfully !
+
+
+2023-04-24 00:48:12
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:48:12
+ExecuteQuery successfully strSql: delete from movies where id=502
+
+
+2023-04-24 00:48:12
+Delete MariaDB successfully !
+
+
+2023-04-24 00:48:12
+Close MariaDB successfully !
+
+
+2023-04-24 00:48:12
+DeleteMovie successfully !
+
+
+2023-04-24 00:48:13
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:48:13
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:48:13
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:48:13
+Close MariaDB successfully !
+
+
+2023-04-24 00:50:58
+application start 
+
+
+2023-04-24 00:51:02
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:51:02
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:51:03
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-24 00:51:03
+Close MariaDB successfully !
+
+
+2023-04-24 00:51:03
+Login successfully !
+
+
+2023-04-24 00:51:03
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:51:03
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:51:03
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:51:04
+Close MariaDB successfully !
+
+
+2023-04-24 00:51:15
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:51:15
+Insert MariaDB error ex.Message:Out of range value for column 'year' at row 1 strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  222222, '2222222', 2222);"]
+
+
+2023-04-24 00:51:15
+Close MariaDB successfully !
+
+
+2023-04-24 00:51:15
+AddMovie error, please check info again !
+
+
+2023-04-24 00:51:27
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:51:27
+Insert MariaDB error ex.Message:Out of range value for column 'year' at row 1 strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  122, '2222222', 2222);"]
+
+
+2023-04-24 00:51:27
+Close MariaDB successfully !
+
+
+2023-04-24 00:51:27
+AddMovie error, please check info again !
+
+
+2023-04-24 00:53:25
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:25
+Insert MariaDB error ex.Message:Out of range value for column 'year' at row 1 strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  122, '2222222', 2222);"]
+
+
+2023-04-24 00:53:25
+Close MariaDB successfully !
+
+
+2023-04-24 00:53:25
+AddMovie error, please check info again !
+
+
+2023-04-24 00:53:42
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:42
+Insert MariaDB successfully strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  122, '2222222', 2025);"]
+
+
+2023-04-24 00:53:42
+Close MariaDB successfully !
+
+
+2023-04-24 00:53:42
+AddMovie successfully !
+
+
+2023-04-24 00:53:44
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:44
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:53:44
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:53:44
+Close MariaDB successfully !
+
+
+2023-04-24 00:53:54
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:54
+ExecuteQuery successfully strSql: delete from movies where id=505
+
+
+2023-04-24 00:53:54
+Delete MariaDB successfully !
+
+
+2023-04-24 00:53:54
+Close MariaDB successfully !
+
+
+2023-04-24 00:53:54
+DeleteMovie successfully !
+
+
+2023-04-24 00:53:55
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:55
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:53:55
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:53:55
+Close MariaDB successfully !
+
+
+2023-04-24 00:53:57
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:57
+ExecuteQuery successfully strSql: delete from movies where id=504
+
+
+2023-04-24 00:53:57
+Delete MariaDB successfully !
+
+
+2023-04-24 00:53:57
+Close MariaDB successfully !
+
+
+2023-04-24 00:53:57
+DeleteMovie successfully !
+
+
+2023-04-24 00:53:58
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:53:58
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:53:58
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:53:58
+Close MariaDB successfully !
+
+
+2023-04-24 00:54:00
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:54:00
+ExecuteQuery successfully strSql: delete from movies where id=503
+
+
+2023-04-24 00:54:00
+Delete MariaDB successfully !
+
+
+2023-04-24 00:54:00
+Close MariaDB successfully !
+
+
+2023-04-24 00:54:00
+DeleteMovie successfully !
+
+
+2023-04-24 00:54:01
+Connect to MariaDB successfully !
+
+
+2023-04-24 00:54:01
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:54:01
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-24 00:54:01
+Close MariaDB successfully !
+
+
+2023-04-25 10:04:34
+application start 
+
+
+2023-04-25 10:05:15
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:15
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 10:05:16
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 10:05:16
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:16
+Login successfully !
+
+
+2023-04-25 10:05:17
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:17
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 10:05:17
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 10:05:17
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:21
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:21
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:21
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:21
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:25
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:25
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:25
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:25
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:28
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:28
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:28
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:28
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:34
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:34
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:34
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:05:34
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:41
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:41
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 10:05:41
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 10:05:41
+Close MariaDB successfully !
+
+
+2023-04-25 10:05:47
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:05:47
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 10:05:47
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 10:05:47
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:04
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:04
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:06:04
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:06:04
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:05
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:05
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 10:06:05
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 10:06:05
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:26
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:26
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:26
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:26
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:28
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:28
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:28
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:28
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:29
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:29
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:29
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:29
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:30
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:30
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:30
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:30
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:30
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:30
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:30
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:30
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:31
+Get strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Get MariaDB successfully strQuerySql: select * from  movies ORDER BY RAND() 
+
+
+2023-04-25 10:06:31
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:37
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:37
+Get strQuerySql: select * from movies where year like '%2014%' order by id desc 
+
+
+2023-04-25 10:06:37
+Get MariaDB successfully strQuerySql: select * from movies where year like '%2014%' order by id desc 
+
+
+2023-04-25 10:06:37
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:42
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:42
+Get strQuerySql: select * from movies where year like '%2016%' order by id desc 
+
+
+2023-04-25 10:06:42
+Get MariaDB successfully strQuerySql: select * from movies where year like '%2016%' order by id desc 
+
+
+2023-04-25 10:06:42
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:45
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:45
+Get strQuerySql: select * from movies where year like '%2023%' order by id desc 
+
+
+2023-04-25 10:06:45
+Get MariaDB successfully strQuerySql: select * from movies where year like '%2023%' order by id desc 
+
+
+2023-04-25 10:06:45
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:51
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:51
+Get strQuerySql: select * from movies where year like '%2022%' order by id desc 
+
+
+2023-04-25 10:06:51
+Get MariaDB successfully strQuerySql: select * from movies where year like '%2022%' order by id desc 
+
+
+2023-04-25 10:06:51
+Close MariaDB successfully !
+
+
+2023-04-25 10:06:55
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:06:55
+Get strQuerySql: select * from movies where year like '%20%' order by id desc 
+
+
+2023-04-25 10:06:55
+Get MariaDB successfully strQuerySql: select * from movies where year like '%20%' order by id desc 
+
+
+2023-04-25 10:06:55
+Close MariaDB successfully !
+
+
+2023-04-25 10:07:08
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:07:08
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:07:08
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 10:07:08
+Close MariaDB successfully !
+
+
+2023-04-25 10:07:16
+Please input MovieInYear!
+
+
+2023-04-25 10:07:19
+Please input MovieInYear!
+
+
+2023-04-25 10:07:27
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:07:28
+Insert MariaDB successfully strSqlList: [" INSERT INTO movies(`duration`, `title`, `year`) VALUES (  67, '67', 2023);"]
+
+
+2023-04-25 10:07:28
+Close MariaDB successfully !
+
+
+2023-04-25 10:07:28
+AddMovie successfully !
+
+
+2023-04-25 10:07:30
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:07:30
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 10:07:30
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 10:07:30
+Close MariaDB successfully !
+
+
+2023-04-25 10:07:35
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:07:35
+ExecuteQuery successfully strSql: delete from movies where id=506
+
+
+2023-04-25 10:07:35
+Delete MariaDB successfully !
+
+
+2023-04-25 10:07:35
+Close MariaDB successfully !
+
+
+2023-04-25 10:07:35
+DeleteMovie successfully !
+
+
+2023-04-25 10:07:36
+Connect to MariaDB successfully !
+
+
+2023-04-25 10:07:36
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 10:07:36
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 10:07:36
+Close MariaDB successfully !
+
+
+2023-04-25 19:58:09
+application start 
+
+
+2023-04-25 20:05:50
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:05:50
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:05:50
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:05:50
+Close MariaDB successfully !
+
+
+2023-04-25 20:05:50
+Login successfully !
+
+
+2023-04-25 20:05:51
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:05:51
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:05:51
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:05:51
+Close MariaDB successfully !
+
+
+2023-04-25 20:06:32
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:06:32
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:06:32
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:06:32
+Close MariaDB successfully !
+
+
+2023-04-25 20:06:33
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:06:33
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:06:33
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:06:33
+Close MariaDB successfully !
+
+
+2023-04-25 20:06:34
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:06:34
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:06:34
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:06:34
+Close MariaDB successfully !
+
+
+2023-04-25 20:06:36
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:06:36
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:06:36
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:06:36
+Close MariaDB successfully !
+
+
+2023-04-25 20:06:37
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:06:37
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:06:37
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:06:37
+Close MariaDB successfully !
+
+
+2023-04-25 20:11:49
+application start 
+
+
+2023-04-25 20:11:55
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:11:55
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:11:56
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:11:56
+Close MariaDB successfully !
+
+
+2023-04-25 20:11:56
+Login successfully !
+
+
+2023-04-25 20:11:56
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:11:56
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:11:56
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:11:57
+Close MariaDB successfully !
+
+
+2023-04-25 20:11:58
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:11:58
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:11:58
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:11:58
+Close MariaDB successfully !
+
+
+2023-04-25 20:12:47
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:12:47
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:12:47
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:12:47
+Close MariaDB successfully !
+
+
+2023-04-25 20:13:11
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:13:11
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:13:11
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:13:11
+Close MariaDB successfully !
+
+
+2023-04-25 20:20:39
+application start 
+
+
+2023-04-25 20:20:44
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:20:44
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:20:44
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:20:44
+Close MariaDB successfully !
+
+
+2023-04-25 20:20:44
+Login successfully !
+
+
+2023-04-25 20:20:45
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:20:45
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:20:45
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:20:45
+Close MariaDB successfully !
+
+
+2023-04-25 20:20:47
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:20:47
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:20:47
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:20:47
+Close MariaDB successfully !
+
+
+2023-04-25 20:20:55
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:20:55
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:20:55
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:20:55
+Close MariaDB successfully !
+
+
+2023-04-25 20:20:59
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:20:59
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:20:59
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:20:59
+Close MariaDB successfully !
+
+
+2023-04-25 20:21:42
+application start 
+
+
+2023-04-25 20:21:47
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:21:47
+Get strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:21:47
+Get MariaDB successfully strQuerySql:  select * from userinfo where LoginName = 'admin' and PassWord='admin' 
+
+
+2023-04-25 20:21:47
+Close MariaDB successfully !
+
+
+2023-04-25 20:21:47
+Login successfully !
+
+
+2023-04-25 20:21:47
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:21:47
+Get strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:21:47
+Get MariaDB successfully strQuerySql: select * from movies order by id desc 
+
+
+2023-04-25 20:21:47
+Close MariaDB successfully !
+
+
+2023-04-25 20:22:02
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:22:02
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:02
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:02
+Close MariaDB successfully !
+
+
+2023-04-25 20:22:03
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:22:03
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:03
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:03
+Close MariaDB successfully !
+
+
+2023-04-25 20:22:05
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:22:05
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:05
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:05
+Close MariaDB successfully !
+
+
+2023-04-25 20:22:06
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:22:06
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:06
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:06
+Close MariaDB successfully !
+
+
+2023-04-25 20:22:07
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:22:07
+Get strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:07
+Get MariaDB successfully strQuerySql: select * from  userinfo order by id desc 
+
+
+2023-04-25 20:22:07
+Close MariaDB successfully !
+
+
+2023-04-25 20:22:07
+Connect to MariaDB successfully !
+
+
+2023-04-25 20:22:07
+Get strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:22:07
+Get MariaDB successfully strQuerySql: select * from userinfo where ID=1
+
+
+2023-04-25 20:22:07
+Close MariaDB successfully !
+
